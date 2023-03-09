@@ -19,9 +19,10 @@ HTML/HTML5, CSS3, BEM
 JavaScript/ES6 learning
 Figma
 Git
-English - A2 studying
+English - A1 studying
 Ukrainian - Native
 Russian - Native
+Slovenian - A1 studying
 
 ---
 
