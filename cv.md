@@ -57,3 +57,20 @@ Education
 Kyiv university of Civil Aviation
 Aircraft electronics engineer
 Years: 1991 - 1997
+
+---
+
+Courses
+
+09/2021
+Course: HTML / CSS
+BeonMax
+10/2021
+Course: BOOTSTRAP
+BeonMax
+02/2023
+Course: JavaScript/Front-end. Stage 0
+RS School
+09/2022
+Course: JavaScript/Front-end. Stage 1
+RS School
